@@ -9,3 +9,5 @@ branch: create a branch <name>
   - then pull request on web, 
   - pull to local
   - clean up both side
+  
+ -rebase
