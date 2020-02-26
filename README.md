@@ -1,4 +1,4 @@
-# 2020-02-26-git_collaboration
+# 2020-02-26-git_collaboration for rebase
 Git training for collaboration
 clone: bring master to local
 branch: create a branch <name>
