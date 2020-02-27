@@ -10,4 +10,5 @@ branch: create a branch <name>
   - pull to local
   - clean up both side
   
- -rebase
+ -rebase: when master has been updated and local is behind
+ 
